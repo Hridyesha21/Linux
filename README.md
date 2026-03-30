@@ -1,4 +1,6 @@
 # 🐧 Open Source Audit — Linux Kernel
+# Name: Sarthak Maurya
+# Roll No: 24BAI10269
 
 A capstone project exploring the philosophy, architecture, and ecosystem of the **Linux Kernel** as part of an Open Source Software course.
 
